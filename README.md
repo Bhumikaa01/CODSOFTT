@@ -10,3 +10,6 @@ https://www.figma.com/file/9ArdzhsEeTKqrGiSHekLZ4/Restaurant-Menu?type=design&no
 
 Task 3 - Ecommerce Platform
 https://www.figma.com/file/NQWdFDYyZAzXuj7B9jYlaU/Ecommerce-Platform?type=design&node-id=0%3A1&mode=design&t=Dw7mpVtVB2a9sTpE-1
+
+Task 4 - Email Template
+https://www.figma.com/proto/5nhYybMWD8y5svZcZeJmRf/Email-Template?page-id=145%3A1213&type=design&node-id=145-1214&viewport=91%2C258%2C0.22&t=TTQrzKpzLyKATsr4-1&scaling=scale-down&mode=design
